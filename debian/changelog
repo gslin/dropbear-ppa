@@ -1,8 +1,14 @@
-dropbear (2017.75-0.1ubuntu1~unstable~ppa1) unstable; urgency=medium
+dropbear (2018.76-0.1ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Create PPA.
 
- -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 21 May 2017 09:21:11 +0800
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 03 May 2018 10:46:21 +0800
+
+dropbear (2018.76-0.1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Matt Johnston <matt@ucc.asn.au>  Tue, 27 Feb 2018 22:51:57 +0800
 
 dropbear (2017.75-0.1) unstable; urgency=low
 
