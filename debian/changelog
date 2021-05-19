@@ -1,3 +1,9 @@
+dropbear (2020.81.2-unstable~ppa1) unstable; urgency=medium
+
+  * Use "override_dh_install" instead of "install" directly.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Thu, 20 May 2021 03:00:29 +0800
+
 dropbear (2020.81.1-unstable~ppa1) unstable; urgency=medium
 
   * Bump the original file.
