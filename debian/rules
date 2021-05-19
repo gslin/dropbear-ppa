@@ -6,12 +6,12 @@
 
 DESTDIR?=	$(shell pwd)/debian/dropbear
 
-%:
-	dh $@ 
-
 install:
 	dh $@
 	install -d -m0755 "$(DESTDIR)"/etc/dropbear
 	install -d -m0755 "$(DESTDIR)"/etc/dropbear/log
 	install -m0755 debian/service/log "$(DESTDIR)"/etc/dropbear/log/run
 	install -m0755 debian/service/run "$(DESTDIR)"/etc/dropbear/run
+
+%:
+	dh $@ 
