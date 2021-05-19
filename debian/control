@@ -2,7 +2,7 @@ Source: dropbear
 Section: net
 Priority: optional
 Maintainer: Gerrit Pape <pape@smarden.org>
-Build-Depends: libz-dev
+Build-Depends: libz-dev, debhelper (>= 9.0.0)
 Standards-Version: 3.7.3.0
 
 Package: dropbear

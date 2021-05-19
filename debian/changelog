@@ -1,8 +1,32 @@
-dropbear (2019.78-0.1ubuntu1~unstable~ppa1) unstable; urgency=medium
+dropbear (2020.81-0.1-unstable~ppa2) unstable; urgency=medium
 
-  * Create 2019.78 PPA.
+  * Add debhelper as build dependency.
 
- -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 13 May 2018 21:51:21 +0800
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Thu, 20 May 2021 02:19:13 +0800
+
+dropbear (2020.81-0.1-unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 2020.81.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Thu, 20 May 2021 01:03:38 +0800
+
+dropbear (2020.81-0.1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Matt Johnston <matt@ucc.asn.au>  Thu, 29 Oct 2020 22:51:57 +0800
+
+dropbear (2020.80-0.1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Matt Johnston <matt@ucc.asn.au>  Fri, 26 Jun 2020 22:51:57 +0800
+
+dropbear (2020.79-0.1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Matt Johnston <matt@ucc.asn.au>  Mon, 15 Jun 2020 22:51:57 +0800
 
 dropbear (2019.78-0.1) unstable; urgency=low
 
