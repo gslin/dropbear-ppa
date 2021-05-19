@@ -1,3 +1,9 @@
+dropbear (2020.81.1-unstable~ppa1) unstable; urgency=medium
+
+  * Bump the original file.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Thu, 20 May 2021 02:45:11 +0800
+
 dropbear (2020.81-0.1-unstable~ppa3) unstable; urgency=medium
 
   * Change target order ("%" and "install").
